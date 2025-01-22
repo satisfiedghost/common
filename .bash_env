@@ -1,0 +1,20 @@
+# Starfish Specific
+export DIR_SW="$HOME/software/starfish"
+export DIR_SRC="$DIR_SW/src"
+export DIR_PIL="$DIR_SRC/Starfish/_Build/PIL/Otter_Pup"
+export DIR_CET="$DIR_SRC/Starfish/flightSoftware/cetacean"
+export DIR_FSW="$DIR_SRC/Starfish/flightSoftware"
+export DIR_SWM_ORR="$DIR_SRC/Starfish/flightSoftware/sw_manager/drm/opup/opup2/orr_test"
+export DIR_ANA="$DIR_SRC/Starfish/analysis"
+export DIR_FIR="$DIR_SRC/firmware"
+export DIR_TI="$HOME/ti"
+export DIR_MAX="$HOME/bin/max"
+
+# System Config
+export FCEDIT=vim
+
+# Display
+export NATIVE_DISPLAY="eDP-1"
+export DP_RIGHT="DP-4"
+export DP_LEFT_BACK="DP-2"
+export DP_LEFT_FRONT="DP-3"

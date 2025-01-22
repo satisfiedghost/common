@@ -1,0 +1,4 @@
+Don't see anything?
+
+They are all dotfiles to avoid annoying folk on the shared machines, and to reduce the
+chance of accidental deletion. Try `ls -la` if you want to see them.
