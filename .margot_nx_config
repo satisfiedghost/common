@@ -1,5 +1,0 @@
-# Things specific to the NX go in here
-
-export DIR_FSW="/mnt/ssd/starfish/basilisk_derived/src/Basilisk/Starfish/flightSoftware"
-export DIR_PIL="/mnt/ssd/starfish/basilisk_derived/src/Basilisk/Starfish/_Build/PIL/Otter_Pup"
-export DIR_IMG="/mnt/ssd/images"

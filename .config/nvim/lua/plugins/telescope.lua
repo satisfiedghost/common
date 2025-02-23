@@ -7,14 +7,16 @@ require('telescope').setup {
       --layout_strategy = 'horizontal',
       layout_strategy = 'vertical',
       layout_config = { height = 0.95, width = 0.95, prompt_position = 'top'},
-      vimgrep_arguments = {
+      ripgrep_arguments = {
         'rg',
         '--color=never',
         '--no-heading',
         '--with-filename',
         '--line-number',
         '--column',
+        '--hidden',
         '--smart-case',
+        '--no-ignore', -- Look in .gitignore'd dirs
         '--follow'  -- Follow symlinks
       },
   },
